@@ -1,0 +1,22 @@
+body {
+    background-color: #2A363B;
+}
+
+#content {
+    width: 25%;
+    min-width: 350px;
+    margin: 5% auto;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.card-body {
+    text-align: center;
+}
